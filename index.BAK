@@ -98,6 +98,10 @@
 								<section>
 <!--									<div class="gallery">-->
 									<div class="row">
+
+										<div class="col-4 col-6-medium col-12-small">
+											<a href="images/Work/89748471_p0.jpg" class="image fit"><img src="images/Thums/89748471_p0_square1200.jpg" alt=""></a>
+										</div>
 										<div class="col-4 col-6-medium col-12-small">
 											<a href="images/Work/89500223_p0.jpg" class="image fit"><img src="images/Thums/89500223_p0_square1200.jpg" alt=""></a>
 										</div>
@@ -169,6 +173,7 @@
 											</div>
 										</div>
 									</div>
+									<input type="hidden" name="_next" value="https://ken-alter.github.io/thanks.html" />
 								</form>
 							</article>
 
